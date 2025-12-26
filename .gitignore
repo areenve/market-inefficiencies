@@ -33,3 +33,6 @@ data/raw/
 
 # Jupyter noise
 .ipynb_checkpoints/
+
+# Jupyter/Editor artifacts
+.virtual_documents/
