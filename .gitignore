@@ -25,3 +25,11 @@ __pycache__/
 # mac
 .DS_Store
 
+
+# Raw data / local artifacts
+data/raw/
+*.sqlite3
+*.db
+
+# Jupyter noise
+.ipynb_checkpoints/
